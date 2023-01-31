@@ -1,7 +1,10 @@
 # BTK_Data_Extraction_Telecom
 
 Extracting data from BTK industry data website
+
 https://www.btk.gov.tr/yillik-il-istatistikleri
+
 https://www.btk.gov.tr/pazar-verileri
 
-Analysis using PowerBI
+* Data extraction and merge using BeautifulSoup & Pandas
+* Analysis using PowerBI
